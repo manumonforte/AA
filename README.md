@@ -23,7 +23,7 @@ When contributing to this repository, please first discuss the change you wish t
 We use [GitHub](https://github.com)
 
 
-Equipo de Trabajo:<br/>
+## Members<br/>
   --> [Manuel Monforte](https://github.com/manumonforte)<br/>
   --> [Raúl Vindel](https://github.com/Raulteu)<br/>
   --> [Alejandro Cabezas](https://github.com/AlexCabezas2018)<br/>
